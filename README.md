@@ -11,12 +11,19 @@ the basic syntax are:
 > - move the pointer to the next cell
 
 < - move the pointer to the cell before it
+
 + - add to the current cell
+
 - - remove from the current cell
+
 . - print current cell
+
 , - end file (needed at EOF or else syntax error will be raised)
+
 @ - print entire tape then make all cells in tape = 0
+
 $ - start comment
+
 / - end comment
 
 More updates coming soon!
