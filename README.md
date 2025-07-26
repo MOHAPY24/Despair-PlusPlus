@@ -8,23 +8,23 @@ Despair++ is a low level lightweight esolang based on brainfuck, ran based on a 
 Download the interperter and make a file with a .hell or .dpp file extension at the end and start coding
 the basic syntax are
 
-> - move the pointer to the next cell
+">" - move the pointer to the next cell
 
-< - move the pointer to the cell before it
+"<" - move the pointer to the cell before it
 
-+ add to the current cell
+"+" - add to the current cell
 
-- remove from the current cell
+"-" - remove from the current cell
 
-. - print current cell
+"." - print current cell
 
-, - end file (needed at EOF or else syntax error will be raised)
+"," - end file (needed at EOF or else syntax error will be raised)
 
-@ - print entire tape then make all cells in tape = 0
+"@" - print entire tape then make all cells in tape = 0
 
-$ - start comment
+"$" - start comment
 
-/ - end comment
+"/" - end comment
 
 More updates coming soon!
 
