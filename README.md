@@ -9,6 +9,7 @@ Download the interperter and make a file with a .hell or .dpp file extension at 
 the basic syntax are:
 
 > - move the pointer to the next cell
+
 < - move the pointer to the cell before it
 + - add to the current cell
 - - remove from the current cell
