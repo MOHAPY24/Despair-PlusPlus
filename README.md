@@ -6,7 +6,7 @@ Despair++ is a low level lightweight esolang based on brainfuck, ran based on a 
 
 ## How to run Despair++?
 Download the interperter and make a file with a .hell or .dpp file extension at the end and start coding
-the basic syntax are:
+the basic syntax are
 
 > - move the pointer to the next cell
 
