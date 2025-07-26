@@ -12,9 +12,9 @@ the basic syntax are:
 
 < - move the pointer to the cell before it
 
-+ - add to the current cell
++ add to the current cell
 
-- - remove from the current cell
+- remove from the current cell
 
 . - print current cell
 
