@@ -26,5 +26,5 @@ the basic syntax are
 
 "/" - end comment
 
-This has now become depreacated, please go to my other project Brainfuck++
+This will no longer recive weekly updates since its modern version Brainfuck++ has released, this is more funny and harder to use so yeah
 
